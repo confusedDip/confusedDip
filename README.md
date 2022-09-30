@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @confusedDip
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently studying Bachelors of Technology in Information Technology
+- 👀 I’m interested in Full Stack Web Development and Data Analytics
+- 🌱 I’m currently studying Master of Science in Computer Science at Arizona State University
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/souradip-nath-532551168/">LinkedIn</a>
   - <a href="mailto:souradipnath4@gmail.com">Email</a>

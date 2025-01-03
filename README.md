@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @confusedDip
-- 👀 I’m interested in Full Stack Web Development and Data Analytics
-- 🌱 I’m currently studying Master of Science in Computer Science at Arizona State University
+- 👀 I’m interested in Cybersecurity, Blockchain, and Web3.0
+- 🌱 I’m currently pursuing a Doctor of Philosophy (Ph.D.) in Computer Science (Cybersecurity) at Arizona State University
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/souradip-nath-532551168/">LinkedIn</a>
   - <a href="mailto:souradipnath4@gmail.com">Email</a>
